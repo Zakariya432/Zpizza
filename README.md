@@ -1,2 +1,2 @@
 # Zpizza
-A pizza Delivery Website 
+A pizza Ordering Website 
